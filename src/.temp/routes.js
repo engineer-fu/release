@@ -1,8 +1,8 @@
-const c1 = () => import(/* webpackChunkName: "page--src--pages--detail--name-vue" */ "/Users/engineer/homework/fed-e-task-03-04/my-homeWork/src/pages/Detail/[name].vue")
-const c2 = () => import(/* webpackChunkName: "page--src--pages--journal-detail-vue" */ "/Users/engineer/homework/fed-e-task-03-04/my-homeWork/src/pages/JournalDetail.vue")
-const c3 = () => import(/* webpackChunkName: "page--src--pages--journal-vue" */ "/Users/engineer/homework/fed-e-task-03-04/my-homeWork/src/pages/Journal.vue")
-const c4 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/engineer/homework/fed-e-task-03-04/my-homeWork/node_modules/gridsome/app/pages/404.vue")
-const c5 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/engineer/homework/fed-e-task-03-04/my-homeWork/src/pages/Index.vue")
+const c1 = () => import(/* webpackChunkName: "page--src--pages--detail--name-vue" */ "/Users/engineer/Desktop/release/src/pages/Detail/[name].vue")
+const c2 = () => import(/* webpackChunkName: "page--src--pages--journal-detail-vue" */ "/Users/engineer/Desktop/release/src/pages/JournalDetail.vue")
+const c3 = () => import(/* webpackChunkName: "page--src--pages--journal-vue" */ "/Users/engineer/Desktop/release/src/pages/Journal.vue")
+const c4 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/engineer/Desktop/release/node_modules/gridsome/app/pages/404.vue")
+const c5 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/engineer/Desktop/release/src/pages/Index.vue")
 
 export default [
   {

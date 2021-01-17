@@ -88,9 +88,11 @@ export default {
     data() {
         return {
             infor: {
-                title:'',
-                date:"",
-                categories:[]
+                node:{
+                    title:'',
+                    date:"",
+                    categories:[]
+                }
             },
             url:"",
         }
